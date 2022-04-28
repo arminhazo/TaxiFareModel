@@ -1,0 +1,15 @@
+artifact_uri: file:///home/armin/code/arminhazo/TaxiFareModel/mlruns/1/875e2a6b01d64c88a6ade30cb5b3b9fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 875e2a6b01d64c88a6ade30cb5b3b9fc
+run_uuid: 875e2a6b01d64c88a6ade30cb5b3b9fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651165489823
+status: 1
+tags: []
+user_id: unknown
